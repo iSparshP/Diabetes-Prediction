@@ -6,3 +6,11 @@ Our repository houses a state-of-the-art diabetes prediction model, trained on a
 Our repository includes a streamlined, user-friendly interface for data input and analysis, as well as detailed documentation and examples to help users get up and running quickly. We have also implemented powerful data visualization tools to facilitate understanding of the factors that contribute to the prediction.
 
 As machine learning engineers, we are committed to staying at the forefront of the field, and we are constantly refining our algorithms and methodologies to ensure the highest possible accuracy and performance. We invite you to join us in this exciting endeavor, and to explore our repository to learn more about this groundbreaking project.
+
+
+# Stack Used:
+Python 
+Python libraries:
+- scikit learn
+- pickle
+- streamlit
