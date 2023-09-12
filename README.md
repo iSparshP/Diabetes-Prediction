@@ -2,7 +2,7 @@
 
 Welcome to the Diabetes Prediction web app repository, a cutting-edge machine learning project developed by our team of skilled engineers and data scientists!
 
-![Web App Screenshot](web_app_screenshot.png)
+![Web App Screenshot](screenshot/Screenshot 2023-09-12 at 11.18.05 PM.png)
 
 ## About
 
