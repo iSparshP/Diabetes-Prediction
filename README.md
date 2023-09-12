@@ -2,7 +2,7 @@
 
 Welcome to the Diabetes Prediction web app repository, a cutting-edge machine learning project developed by our team of skilled engineers and data scientists!
 
-![Web App Screenshot](screenshot/Screenshot 2023-09-12 at 11.18.05 PM.png)
+![Web App Screenshot](https://github.com/iSparshP/Diabetes-Prediction/blob/f06039101060a5434c811f260d0d30f83af8d52c/screenshot/Screenshot%202023-09-12%20at%2011.18.05%20PM.png)
 
 ## About
 
